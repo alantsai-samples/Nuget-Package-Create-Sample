@@ -1,0 +1,1 @@
+This is a text which want to be copied when install nuget
