@@ -14,12 +14,12 @@
 ## 用nuspec + project
 
 要測試這個，請用powershell執行  
-[build\nuget-nuspec-project\nuget_Net35Library.ps1](build\nuget-nuspec-project\nuget_Net35Library.ps1)
+[build\nuget-nuspec-project\nuget_Net35Library.ps1](build/nuget-nuspec-project/nuget_Net35Library.ps1)
 
 ## 用nuspec
 
 要測試這個，請用powershell執行  
-[build\nuget-nuspec\nuget_build.ps1](build\nuget-nuspec\nuget_build.ps1)
+[build\nuget-nuspec\nuget_build.ps1](build/nuget-nuspec/nuget_build.ps1)
 
 ## 其他參考資訊 - 部落格
 
