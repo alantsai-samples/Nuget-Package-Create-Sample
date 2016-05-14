@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>UsefulLibrary</id>
+    <version>1.0.0</version>
+    <authors>Alan Tsai</authors>
+    <owners>Alan Tsai</owners>
+    <licenseUrl>https://github.com/alantsai-samples/Nuget-Package-Create-Sample/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/alantsai-samples/Nuget-Package-Create-Sample</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Nuget package build from nuspec file</description>
+    <copyright>Copyright 2016</copyright>
+  </metadata>
+</package>
